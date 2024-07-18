@@ -2,7 +2,7 @@
 
 /*
 	Plugin Name: Pretvori u latinicu
-	Description: Pretvaramo ćirilično pismo u latinično.
+	Description: Pretvaramo ćirilicu u latinicu.
 	Tags: ćirilica, latinica, sajbersove, sajber sove
 	Author: Sajber Sove
 	Author URI: https://sajbersove.rs/
