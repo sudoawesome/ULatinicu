@@ -10,7 +10,7 @@
 	License: GPLv2
 */
 
-if (! defined('ABSPATH') ) {
+if (!defined('ABSPATH') ) {
   die('Forbidden');
 };
 
